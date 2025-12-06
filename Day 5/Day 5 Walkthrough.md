@@ -260,4 +260,4 @@ Well, that was a lot of learning - especially the encoded IDORs. Also, the Burp 
 A lot of credit actually goes to David Ackerman, the 1st Video Walkthrough instructor. Especially those bonus tasks.
 
 Thanks for reading.  
-Keep Learning!
+Keep Learning! 😊
