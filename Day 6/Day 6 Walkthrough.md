@@ -256,7 +256,7 @@ Again, apply another filter, as we are trying to find if there was any external 
 With this filter applied, we can clearly see several TCP Connect, Send, and Receive events.  
 This confirms that the sample did attempt to make outbound network communication.
 
-From the TCP events in ProcMon, we can see the sample is connecting to a host named `breachblocker-sandbox` over HTTP. This suggests the executable is communicating with a local web panel or simulated C2 server inside the sandbox environment.
+From the TCP events in ProcMon, we can see the sample is connecting to a host named `breachblocker-sandbox`. This suggests the executable is communicating with a local web panel or simulated C2 server inside the sandbox environment.
 
 ---
 
