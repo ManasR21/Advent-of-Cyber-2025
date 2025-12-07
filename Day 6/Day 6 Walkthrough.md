@@ -209,7 +209,7 @@ We go to the HopHelper folder and run the application.
 
 We see some changes, such as a dialog box with:
 
-> King Malhare sending his regards
+> King Malhare sends his regards
 
 And we see icons of some application shortcuts turned into some Easter egg icons.
 
