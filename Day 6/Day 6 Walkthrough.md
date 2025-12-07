@@ -90,8 +90,7 @@ Either drag and drop the file or open the file and select the `HopHelper` applic
 ![alt text](image.png)
 
 On loading, we see the file hash (SHA256) in the 1st line, which is a unique identifier for the file.  
-Keep note of this:  
-`F29C270068F865EF4A747E2683BFA07667BF64E768B38FBB9A2750A3D879CA33`
+Keep note of this
 
 Try to search this hash on VirusTotal or any other online database.
 
