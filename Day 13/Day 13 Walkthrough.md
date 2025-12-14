@@ -1,4 +1,4 @@
-# Room: YARA Rules - YARA Means You're Ready for Anything!
+# Room: YARA Rules - YARA mean one!
 
 ## Mission Background
 
