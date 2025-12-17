@@ -1,4 +1,4 @@
-# Room Name: Forensics - Registry Forensics
+# Room Name: Forensics - Registry Furensics
 
 ![alt text](image-12.png)
 
